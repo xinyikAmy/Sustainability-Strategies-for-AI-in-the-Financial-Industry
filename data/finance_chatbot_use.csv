@@ -1,0 +1,46 @@
+name,use_chatbot,customer_facing
+Wells Fargo,Yes,Yes
+Citi,No,No
+Bank of America,Yes,Yes
+Capital One,Yes,Yes
+Morgan Stanley,Yes,No
+American Express,Yes,Yes
+Barclays,Yes,No
+Goldman Sachs,Yes,No
+The Bank Of New York Mellon,Yes,Yes
+U.S. Bancorp,Yes,Yes
+Charles Schwab Corporation,Yes,Yes
+Vanguard,Yes,Yes
+PNC Financial Services,Yes,Yes
+J.P. Morgan,Yes,Yes
+Discover Financial Services,Yes,Yes
+State Street,Yes,Yes
+Blackrock,Yes,Yes
+Truist Financial,Yes,Yes
+Ameriprise Financial,Yes,Yes
+Northern Trust,Yes,No
+Principal Financial Group,Yes,Yes
+Nasdaq,Yes,Yes
+Intercontinental Exchange,Yes,Yes
+T. Rowe Price Group,Yes,No
+Citadel,Yes,No
+Synchrony Financial,Yes,Yes
+M&T Bank,Yes,Yes
+Fifth Third Bancorp,Yes,Yes
+SVB Financial,No,No
+Huntington Bancshares,Yes,Yes
+CME Group,Yes,Yes
+Keycorp,Yes,Yes
+Franklin Resources,Yes,No
+Regions Financial,Yes,Yes
+Raymond James Financial,Yes,No
+Comerica,Yes,Yes
+Jane Street,Yes,No
+Zions Bancorp,Yes,Yes
+Invesco,Yes,Yes
+CBOE Global Markets,Yes,Yes
+Bridgewater Associates,Yes,No
+MarketAxess,Yes,Yes
+Citizens Financial Group,Yes,No
+Vista Equity Partners,Yes,No
+Elliott Management,No,No

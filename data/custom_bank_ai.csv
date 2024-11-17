@@ -1,0 +1,101 @@
+Bank,AI Source
+Industrial and Commercial Bank of China,Huawei
+Agricultural Bank of China,Baidu
+China Construction Bank,Huawei
+Bank of China,NA
+JPMorgan Chase,GPT 4.0
+Bank of America,in house model Erica
+HSBC,Google Cloud
+BNP Paribas,IBM Watson
+Mitsubishi UFJ Financial Group,Amazon SageMaker and Amazon Bedrock
+Cr√©dit Agricole,Google Cloud
+Postal Savings Bank of China,Baidu
+Citigroup,Google Cloud
+SMBC Group,OpenAI
+Banco Santander,NA
+Bank of Communications,NA
+Wells Fargo,"PaLM 2, Llama 2"
+Mizuho Financial Group,Fujitsu
+Barclays,NA
+Société Générale,"OpenLLM-Ro (based on llama2, mistral, gemma, llama3)"
+UBS,NA
+Groupe BPCE,Dataiku
+Goldman Sachs,OpenAI
+Japan Post Bank,NA
+Royal Bank of Canada,Azure
+China Merchants Bank,Huawei
+Deutsche Bank,NVIDIA
+Industrial Bank (China),NA
+Toronto-Dominion Bank,Cohere
+China CITIC Bank,Baidu
+Crédit Mutuel,IBM
+Shanghai Pudong Development Bank,Huawei
+Morgan Stanley,OpenAI
+Lloyds Banking Group,Cleareye.ai
+China Minsheng Bank,NA
+ING Group,QuantumBlack (McKinsey)
+Intesa Sanpaolo,NA
+Scotiabank,Google Cloud AI
+Bank of Montreal,Microsoft Azure OpenAI
+China Everbright Bank,NA
+NatWest Group,"IMB (In house Cora+), AWS SageMaker"
+UniCredit,Axyon AI
+Commonwealth Bank,"AWS, Microsoft, H20.ai"
+Banco Bilbao Vizcaya Argentaria,OpenAI
+Standard Chartered,Truera
+La Banque postale,NA
+Ping An Bank,NA
+State Bank of India,(in house with IIT Bombay)
+ANZ Group,NA
+Canadian Imperial Bank of Commerce,"(inhouse CIBC AI), Copilot"
+DZ Bank,Gemini
+Norinchukin Bank,Box AI
+National Australia Bank,OpenAI
+Rabobank,expert.ai
+CaixaBank,(GalaxIA with Microsoft)
+Westpac,Rich Data Co
+U.S. Bancorp,Supernatural AI
+Nordea,boost.ai
+Capital One,(in house ENO)
+Sberbank of Russia,NA
+Commerzbank,Microsoft Azure
+Huaxia Bank,NA
+PNC Financial Services,NA
+DBS Group,(in-house chatbot)
+Itaú Unibanco,"Copilot, inhouse"
+KB Financial Group,OpenAI
+Danske Bank,AWS's AI
+Truist Financial Corp,NA
+Shinhan Financial Group,DeepBrain AI
+Resona Holdings,NA
+Sumitomo Mitsui Trust Holdings,Zapata AI
+Bank of Beijing,NA
+China Guangfa Bank,NA
+Charles Schwab Corporation,NA
+HDFC Bank,"Microsoft, (inhouse chatbot)"
+Bank of Jiangsu,NA
+Hana Financial Group,NA
+Banco do Brasil,NA
+Nationwide Building Society,OpenText
+China Zheshang Bank,NA
+Oversea-Chinese Banking Corporation,OpenAI
+Bank of Shanghai,SenseTime
+ABN AMRO,Complidata
+BNY,"(Eliza inspired by GPT 4.0, Gemini, Llama)"
+United Overseas Bank,NA
+Banco Bradesco,"Azure, IBM Watson"
+Nonghyup Bank,DeepBrain AI
+Nomura Holdings,Llama and Amazon Bedrock
+Woori Financial Group,DeepBrain AI
+KBC Group,NA
+Caixa Econômica Federal,NA
+Erste Group,OpenAI
+Landesbank Baden-W√ºrttemberg,NA
+Bank of Ningbo,SenseTime
+SEB Group,NA
+Raiffeisen Group,Rasa (in house chatbot)
+Handelsbanken,NA
+Industrial Bank of Korea,NA
+DNB,Vertex AI
+Qatar National Bank,NA
+VTB Bank,NA
